@@ -1,0 +1,6 @@
+@DATT.API_HostAddress = http://localhost:5217
+
+GET {{DATT.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
