@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATT.API", "DATT.API\DATT.API.csproj", "{29C68097-832D-482F-AB15-25B3D2DD4B45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F7D8E01E-D26A-4CB5-930D-F6A1546B02C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{29C68097-832D-482F-AB15-25B3D2DD4B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29C68097-832D-482F-AB15-25B3D2DD4B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29C68097-832D-482F-AB15-25B3D2DD4B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D8E01E-D26A-4CB5-930D-F6A1546B02C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D8E01E-D26A-4CB5-930D-F6A1546B02C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D8E01E-D26A-4CB5-930D-F6A1546B02C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D8E01E-D26A-4CB5-930D-F6A1546B02C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
